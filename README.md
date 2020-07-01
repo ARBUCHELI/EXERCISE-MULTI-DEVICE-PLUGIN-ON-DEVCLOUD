@@ -338,8 +338,13 @@ paths=['cpu_vpu_stats.txt', 'gpu_vpu_stats.txt', 'cpu_gpu_vpu_stats.txt']
 read_files(paths, ['CPU/VPU', 'GPU/VPU', 'CPU/GPU/VPU'])
 </code></pre>
 
+![image](https://raw.githubusercontent.com/ARBUCHELI/EXERCISE-MULTI-DEVICE-PLUGIN-ON-DEVCLOUD/master/download11.png)
 
+![image](https://raw.githubusercontent.com/ARBUCHELI/EXERCISE-MULTI-DEVICE-PLUGIN-ON-DEVCLOUD/master/download12.png)
 
+1[image](https://raw.githubusercontent.com/ARBUCHELI/EXERCISE-MULTI-DEVICE-PLUGIN-ON-DEVCLOUD/master/download13.png)
+
+# Solution of the exercise and adaptation as a Repository: Andrés R. Bücheli.
 
 
 
