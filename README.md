@@ -342,7 +342,7 @@ read_files(paths, ['CPU/VPU', 'GPU/VPU', 'CPU/GPU/VPU'])
 
 ![image](https://raw.githubusercontent.com/ARBUCHELI/EXERCISE-MULTI-DEVICE-PLUGIN-ON-DEVCLOUD/master/download12.png)
 
-1[image](https://raw.githubusercontent.com/ARBUCHELI/EXERCISE-MULTI-DEVICE-PLUGIN-ON-DEVCLOUD/master/download13.png)
+![image](https://raw.githubusercontent.com/ARBUCHELI/EXERCISE-MULTI-DEVICE-PLUGIN-ON-DEVCLOUD/master/download13.png)
 
 # Solution of the exercise and adaptation as a Repository: Andrés R. Bücheli.
 
