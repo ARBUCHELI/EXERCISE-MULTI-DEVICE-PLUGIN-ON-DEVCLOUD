@@ -1,6 +1,6 @@
 # EXERCISE-MULTI-DEVICE-PLUGIN-ON-DEVCLOUD
 
-## This Content was Created by Intel Edge AI for IoT Developers UDACITY Nanodegree. (Solution of the exercise and adaptation as a repository: Andrés R. Bücheli.)
+## This Content was Created by Intel Edge AI for IoT Developers UDACITY Nanodegree. (Solution of the exercise and adaptation as a repository: Andrés R. Bucheli.)
 
 ## Exercise: Multi Device Plugin and the DevCloud
 Using the Multi device plugin to load a model on all three hardware devices, CPU, GPU, and VPU and running inference on an image using 3 device combinations.
@@ -344,7 +344,7 @@ read_files(paths, ['CPU/VPU', 'GPU/VPU', 'CPU/GPU/VPU'])
 
 ![image](https://raw.githubusercontent.com/ARBUCHELI/EXERCISE-MULTI-DEVICE-PLUGIN-ON-DEVCLOUD/master/download13.png)
 
-# Solution of the exercise and adaptation as a Repository: Andrés R. Bücheli.
+# Solution of the exercise and adaptation as a Repository: Andrés R. Bucheli.
 
 
 
